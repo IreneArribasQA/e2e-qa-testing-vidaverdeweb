@@ -19,7 +19,7 @@ A continuous integration workflow has been configured with GitHub Actions to run
 
 You can check the latest test execution results and download the test report from the following link:
 
-![Test Workflow](https://github.com/FlorenciaPosse/e2e-qa-testing-vidaverdeweb/actions/workflows/playwright_tests.yml/badge.svg)
+![Test Workflow](https://github.com/IreneArribasQA/e2e-qa-testing-vidaverdeweb/actions/workflows/playwright_tests.yml/badge.svg)
 
 ## Project Requirements
 
